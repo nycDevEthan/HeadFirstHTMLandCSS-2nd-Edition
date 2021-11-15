@@ -1,0 +1,32 @@
+body {
+        font-family: sans-serif;  /* this rule selects all body elements and sets the font type to sans-serif */
+}
+
+h1, h2 {
+            color:       gray;  /* this rule selects h1 and h2 headings and colors them gray */
+}
+
+h1 {
+        border-bottom: 1px solid black;
+} 
+
+p {
+    color: maroon;  
+}
+
+p.blueberry {
+                color: purple;
+}
+
+p.greentea {
+    color: green;
+}
+
+p.raspberry {
+    color: blue;
+}
+
+p.cranberry {
+                color: maroon;
+}
+/* added test comments to try out commenting in CSS */
